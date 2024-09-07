@@ -38,4 +38,5 @@ class Solution {
         result[0]=lb;   result[1]=ub;
         return result;
     }
+    // total no. of occurences = (ub - lb) + 1
 }
