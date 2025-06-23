@@ -11,4 +11,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/barveakshat/LeetCodeProblems/tree/master/2202-sum-of-k-mirror-numbers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/barveakshat/LeetCodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
