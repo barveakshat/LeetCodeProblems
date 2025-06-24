@@ -4,4 +4,3 @@ from Signups s
 left join Confirmations c
 on s.user_id = c.user_id
 group by s.user_id
-order by confirmation_rate
