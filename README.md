@@ -26,4 +26,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1801-average-time-of-process-per-machine](https://github.com/barveakshat/LeetCodeProblems/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/barveakshat/LeetCodeProblems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/barveakshat/LeetCodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 <!---LeetCode Topics End-->
