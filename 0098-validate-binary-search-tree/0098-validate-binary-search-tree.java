@@ -13,22 +13,21 @@
  *     }
  * }
  */
-public class Solution {
+class Solution {
     public boolean isValidBST(TreeNode root) {
-        return validate(root, null, null);
+        // using pre-order traversal
+        return helper(root, null, null);
+
     }
+    private boolean helper(TreeNode node, Integer low, Integer high ){
+        if(node == null) return true;
 
-    private boolean validate(TreeNode node, Integer minVal, Integer maxVal) {
-        if (node == null) return true;
+        if(low != null && node.val <= low) return false;
 
-        // Check current node's value against the valid range
-        if ((minVal != null && node.val <= minVal) || 
-            (maxVal != null && node.val >= maxVal)) {
-            return false;
-        }
+        if(high != null && node.val >= high) return false;
 
-        // Recursively validate left and right subtrees
-        return validate(node.left, minVal, node.val) && 
-               validate(node.right, node.val, maxVal);
+        boolean leftTree = helper(node.left, low, node.val);
+        boolean rightTree = helper(node.right, node.val, high);
+        return leftTree && rightTree;
     }
 }
