@@ -38,4 +38,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
