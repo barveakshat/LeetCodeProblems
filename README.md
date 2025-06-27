@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/barveakshat/LeetCodeProblems/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Database
 |  |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/barveakshat/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Breadth-First Search
 |  |
@@ -108,9 +110,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/barveakshat/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/barveakshat/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Counting
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
