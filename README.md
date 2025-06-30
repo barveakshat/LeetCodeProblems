@@ -36,12 +36,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/barveakshat/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/barveakshat/LeetCodeProblems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Linked List
 |  |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/barveakshat/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/barveakshat/LeetCodeProblems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Hash Table
 |  |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
