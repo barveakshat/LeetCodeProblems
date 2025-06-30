@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/barveakshat/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/barveakshat/LeetCodeProblems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/barveakshat/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Divide and Conquer
 |  |
@@ -125,13 +127,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
