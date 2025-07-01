@@ -13,51 +13,48 @@
  *     }
  * }
  */
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> res = new ArrayList<>();
-        if(root == null) return res;
+        List<List<Integer>> result = new ArrayList<>();
+        Deque<TreeNode> queue = new LinkedList<>();
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        boolean leftToRight = true;
+        if(root == null) return result;
+        queue.offer(root);
 
-        while(!q.isEmpty()){                        //classic level order traversal
-            int lSize = q.size();
-            List<Integer> level = new ArrayList<>();
+        boolean reverse = false;
 
-            for (int i = 0; i < lSize; i++) {
-                TreeNode node = q.poll();           //dequeue front 
-
-                if (leftToRight) {         //if lefttoright is true add to back of level
-                    level.add(node.val);
-                } else{                  //if lefttoright is false add to front of level
-                    level.addFirst(node.val); 
+        while(!queue.isEmpty()){
+            int levelSize = queue.size();
+            List<Integer> currLevel = new ArrayList<>();
+            for(int i=0; i<levelSize; i++){
+                if(!reverse){
+                    TreeNode currNode = queue.pollFirst();
+                    currLevel.add(currNode.val);
+                    // left child first, then right 
+                    if(currNode.left != null){
+                        queue.addLast(currNode.left);
+                    }
+                    if(currNode.right != null){
+                        queue.addLast(currNode.right);
+                    }
                 }
-
-                //if left and right child is present add left and right child to queue
-                if (node.left != null) q.add(node.left);
-                if (node.right != null) q.add(node.right);
+                else{
+                    TreeNode currNode = queue.pollLast();
+                    currLevel.add(currNode.val);
+                     // right child first, then left 
+                    if(currNode.right != null){
+                        queue.addFirst(currNode.right);
+                    }
+                    if(currNode.left != null){
+                        queue.addFirst(currNode.left);
+                    }
+                }
             }
-
-            res.add(level);
-            leftToRight = !leftToRight;
+            // after every level
+            reverse = !reverse;
+            result.add(currLevel);
         }
-        return res;
+
+        return result;
     }
 }
