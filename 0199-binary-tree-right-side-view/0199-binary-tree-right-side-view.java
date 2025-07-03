@@ -13,32 +13,32 @@
  *     }
  * }
  */
-import java.util.*;
-
-class TreeNode {
-    int val;
-    TreeNode left, right;
-    TreeNode(int val) { this.val = val; }
-}
-
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        if (root == null) return ans;
-
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-
-        while (!q.isEmpty()) {
-            int n = q.size();
-            for (int i = 0; i < n; i++) {
-                TreeNode curr = q.poll();
-                if (i == n - 1) ans.add(curr.val);
-                if (curr.left != null) q.add(curr.left);
-                if (curr.right != null) q.add(curr.right);
-            }
+        List<Integer> result = new ArrayList<>();
+        if(root == null){
+            return result;
         }
-
-        return ans;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while(!queue.isEmpty()){
+            int levelSize = queue.size();
+            
+            for(int i=0; i<levelSize; i++){
+                TreeNode node = queue.poll();
+                
+                if(i == levelSize-1){
+                    result.add(node.val);
+                }
+                if(node.left != null){
+                    queue.offer(node.left);
+                }
+                if(node.right != null){
+                    queue.offer(node.right);
+                }   
+            }
+            
+        }
+        return result;
     }
 }
