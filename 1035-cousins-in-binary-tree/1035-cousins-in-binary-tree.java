@@ -53,6 +53,6 @@ class Solution {
 
         if(l != 0 ) return l;
         
-        return (level(node.right, x, lev+1));
+        return level(node.right, x, lev+1);
     }
 }
