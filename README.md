@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/barveakshat/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Linked List
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/barveakshat/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/barveakshat/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -214,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/barveakshat/LeetCodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
