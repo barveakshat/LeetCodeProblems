@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/barveakshat/LeetCodeProblems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/barveakshat/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
