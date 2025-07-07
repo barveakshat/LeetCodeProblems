@@ -5,7 +5,7 @@ class MyQueue {
         st1 = new Stack();
         st2 = new Stack();
     }
-    
+    // REMOVE EFFICIENT
     public void push(int x) {
         while(!st2.isEmpty()){
             st1.add(st2.pop());
