@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/barveakshat/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/barveakshat/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Dynamic Programming
@@ -222,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/barveakshat/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
