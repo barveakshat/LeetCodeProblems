@@ -1,39 +1,39 @@
-import java.util.Stack;
-
 class MyQueue {
-    private Stack<Integer> in_stack;
-    private Stack<Integer> out_stack;
-
+    Stack<Integer> st1;
+    Stack<Integer> st2;           // stack2 maintains the queue order
     public MyQueue() {
-        in_stack = new Stack<>();
-        out_stack = new Stack<>();
+        st1 = new Stack();
+        st2 = new Stack();
     }
-
-    private void transfer() {
-        while (!in_stack.isEmpty()) {
-            out_stack.push(in_stack.pop());
-        }
-    }
-
+    
     public void push(int x) {
-        in_stack.push(x);
+        while(!st2.isEmpty()){
+            st1.add(st2.pop());
+        }
+        st2.add(x);
+        while(!st1.isEmpty()){
+            st2.add(st1.pop());
+        }
     }
-
+    
     public int pop() {
-        if (out_stack.isEmpty()) {
-            transfer();
-        }
-        return out_stack.pop();
+        return st2.pop();
     }
-
+    
     public int peek() {
-        if (out_stack.isEmpty()) {
-            transfer();
-        }
-        return out_stack.peek();
+        return st2.peek();
     }
-
+    
     public boolean empty() {
-        return in_stack.isEmpty() && out_stack.isEmpty();
+        return st2.isEmpty();
     }
 }
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue obj = new MyQueue();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.peek();
+ * boolean param_4 = obj.empty();
+ */
