@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/barveakshat/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/barveakshat/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/barveakshat/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/barveakshat/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/barveakshat/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/barveakshat/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
