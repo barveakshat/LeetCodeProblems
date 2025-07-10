@@ -1,39 +1,51 @@
 class Solution {
-    public int maxFreeTime(int eventTime, int[] start, int[] end) {
-        ArrayList<Integer> freeArr = new ArrayList<>();            // array of gaps
-        freeArr.add(start[0]);                           // starting freetime
-        for(int i=1; i<start.length; i++){
-            freeArr.add(start[i] - end[i-1]);
-        }
-        freeArr.add(eventTime - end[end.length-1]);       // free time after end meeting 
-        int n = freeArr.size();
+    public int maxFreeTime(int eventTime, int[] startTime, int[] endTime) {
+        int n = startTime.length;
 
-        ArrayList<Integer> maxLeftFree = new ArrayList<>(); 
-        ArrayList<Integer> maxRightFree = new ArrayList<>(); 
-        for(int i = 0; i < n; i++) {
-            maxLeftFree.add(0);
-            maxRightFree.add(0);
-        }
-        maxLeftFree.set(0, 0);
-        maxRightFree.set(n-1, 0);
-
-        for(int i=n-2; i>=0; i--){
-            maxRightFree.set(i, Math.max(maxRightFree.get(i+1), freeArr.get(i+1))); 
-        }
-        for(int i=1; i<n; i++){
-            maxLeftFree.set(i, Math.max(maxLeftFree.get(i-1), freeArr.get(i-1))); 
+        int[] gaps = new int[n+1];
+        int left = 0;
+        for (int i = 0; i < n; i++) {
+            int gap = startTime[i] - left;
+            gaps[i] = gap;
+            left = endTime[i];
         }
         
-        int result = 0;
-        for(int i=1; i<n; i++){
-            int currEventTime = end[i-1] - start[i-1];                 // duration of event d
-            //CASE 1 - moving completely out
-            if(currEventTime <= maxLeftFree.get(i-1) || currEventTime <= maxRightFree.get(i)){
-                result = Math.max(result, freeArr.get(i-1) + currEventTime + freeArr.get(i));
-            }
-            // CASE 2 - shift left or right
-            result = Math.max(result, freeArr.get(i-1) + freeArr.get(i));
+        gaps[n] = eventTime - endTime[n-1];
+        int[] prefixGap = new int[n];
+        int[] suffixGap = new int[n];
+        
+        prefixGap[0] = gaps[0];
+        for (int i = 1; i < n; i++) {
+            prefixGap[i] = Math.max(prefixGap[i-1], gaps[i]);
         }
-        return result;
+
+        suffixGap[n-1] = gaps[n];
+        for (int i = n-2; i >= 0; i--) {
+            suffixGap[i] = Math.max(suffixGap[i+1], gaps[i+1]);
+        }
+
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            int curr = gaps[i] + gaps[i+1];
+            
+            int barSize = endTime[i] - startTime[i];
+
+            boolean isValid = false;
+            if (i-1 >= 0) {
+                isValid = prefixGap[i-1] >= barSize;
+            }
+
+            if (i+1 < n) {
+                isValid = isValid || suffixGap[i+1] >= barSize;
+            }
+
+            if (isValid) {
+                curr += barSize;
+            }
+
+            ans = Math.max(ans, curr);
+        }
+
+        return ans;
     }
 }
