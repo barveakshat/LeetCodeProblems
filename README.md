@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/barveakshat/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/barveakshat/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/barveakshat/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -266,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
