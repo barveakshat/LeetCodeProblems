@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/barveakshat/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/barveakshat/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/barveakshat/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/barveakshat/LeetCodeProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/barveakshat/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/barveakshat/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/barveakshat/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/barveakshat/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/barveakshat/LeetCodeProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/barveakshat/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/barveakshat/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
@@ -268,8 +271,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/barveakshat/LeetCodeProblems/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/barveakshat/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
