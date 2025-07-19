@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/barveakshat/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0594-longest-harmonious-subsequence](https://github.com/barveakshat/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/barveakshat/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/barveakshat/LeetCodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/barveakshat/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/barveakshat/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/1035-cousins-in-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/barveakshat/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/barveakshat/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/barveakshat/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/barveakshat/LeetCodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/barveakshat/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/barveakshat/LeetCodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/barveakshat/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/barveakshat/LeetCodeProblems/tree/master/3396-valid-word) |
@@ -282,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/barveakshat/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/barveakshat/LeetCodeProblems/tree/master/1036-rotting-oranges) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/barveakshat/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
