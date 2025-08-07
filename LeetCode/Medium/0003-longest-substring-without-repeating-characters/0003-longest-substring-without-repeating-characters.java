@@ -4,14 +4,14 @@ class Solution {
         int l = 0;
         Set<Character> set = new HashSet<>();
 
-        for(int c = 0; c < s.length(); c++){
-            while(set.contains(s.charAt(c))){
+        for(int r = 0; r < s.length(); r++){
+            while(set.contains(s.charAt(r))){
                 set.remove(s.charAt(l));
                 l++;
             }
             
-            set.add(s.charAt(c));
-            ans = Math.max(ans, c - l + 1);
+            set.add(s.charAt(r));
+            ans = Math.max(ans, r - l + 1);
         }
 
 
